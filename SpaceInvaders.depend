@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1338221455 source:/opt/workspace C/SpaceInvaders/alien1.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+	<time.h>
+
+1338221465 source:/opt/workspace C/SpaceInvaders/spaceShip1.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+
+1340717540 source:/opt/workspace C/SpaceInvaders/main.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
